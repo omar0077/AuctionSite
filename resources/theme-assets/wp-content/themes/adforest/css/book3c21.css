@@ -1,0 +1,656 @@
+
+.bk-clr-scheme .sprt-top-bar{
+    background-color: #f5f5f5;
+    padding: 0;
+}
+.bk-clr-scheme .sprt-top-bar .sprt-top-scl{
+    margin-top: 15px;
+}
+.bk-clr-scheme .sprt-top-sign .spt-links li:first-child {
+
+}
+.bk-clr-scheme .sprt-top-sign .spt-links li {
+    line-height: 37px;
+}
+.bk-search-area .dropdown{
+    position:static;
+}
+
+/* bk-search-area*/
+
+.latest-book-menu .mega-menu .drop-down-multilevel, .latest-book-menu .mega-menu .drop-down, .latest-book-menu .mega-menu .drop-down-tab-bar {
+    top: 53px;
+}
+
+.bk-new-srch-area input{
+    width: 100%;
+    padding: 0 20px;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+    height: 46px;
+
+}
+
+.bk-search-area{
+    position: relative;
+    padding: 30px 0;
+
+}
+
+.latest-book-menu .mega-menu {
+    z-index: 99;
+}
+.bk-new-srch-area{
+    position: relative;
+
+}
+.bk-new-srch-area .form-group {
+    margin-bottom: 0;
+    position: relative;
+}
+.bk-new-srch-area .form-group .adforest-search-spinner  {
+    position: absolute;
+    right: 100px;
+    top: 10px;
+}
+.bk-submit-form{
+    position: absolute;
+    right: 0;
+    top: -3%;
+
+}
+
+.bk-submit-form button{
+    padding: 12px 40px;
+    border-radius: 30px;
+    border:none;
+
+}
+
+
+.bk-srch-links{
+    float: left;
+    margin-top: 3px;
+
+}
+
+
+.bk-srch-links .bk-srch-contents li i{
+    padding: 10px 5px;
+    font-size: 14px;
+}
+
+
+.bk-srch-links .bk-srch-contents li{
+
+    border-radius: 20px;
+    margin-right: 10px;
+
+}
+
+
+.bk-search-area .dropdown-toggle.btn-default {
+    border-radius: 20px;
+    padding: 7px 40px;
+    margin-top: 5px;
+    border:1px solid #f5f5f5;
+}
+.bk-search-area .dropdown-toggle.btn-default:focus{
+    background-color: #F5f5f5;
+    border:1px solid #f5f5f5;
+}
+.bk-search-area .btn-default:active:hover, .bk-search-area .btn-default.active:hover, .bk-search-area .open > .dropdown-toggle.btn-default:hover, .bk-search-area .btn-default:active:focus, .bk-search-area .btn-default.active:focus, .bk-search-area .open > .dropdown-toggle.btn-default:focus, .bk-search-area .btn-default:active.focus, .bk-search-area .btn-default.active.focus, .bk-search-area .open > .dropdown-toggle.btn-default.focus, .bk-search-area .btn-default:hover {
+    color: #333;
+    background-color: #F5f5f5;
+    border-color: #CCC;
+}
+
+
+.bk-srch-links .bk-srch-contents li:last-child{
+    margin-right: 0;
+
+}
+
+
+.bk-srch-links .bk-srch-contents .bk-absolute{
+    position: absolute;
+    z-index: 99;
+    top: 15%;
+}
+.bk-srch-links .bk-srch-contents .bk-absolute i{
+    color: #ffff;
+}
+.bk-search-area .bk-side-btns {
+    text-align: right;
+
+}
+
+/* bk-search-area*/
+
+
+/* bk-hero-section */
+
+.bk-hero-section{
+    height: 600px;
+    background-size: cover;
+    background-position: center center;
+}
+
+
+.bk-hero-text h4 {
+    font-size: 40px;
+    color: #65c422;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+
+
+.bk-hero-text h3 {
+    color: #232323;
+    font-size: 80px;
+    font-weight: 600;
+    line-height: 80px;
+    margin-bottom: 20px;
+}
+
+
+.bk-hero-text p{
+    color: #232323;
+    font-size: 20px;
+    width: 70%;
+
+}
+
+
+.bk-hero-details{
+    position: relative;
+    padding: 150px 0;
+
+}
+
+
+.bk-hero-shop{
+    margin-top: 23px;
+
+}
+
+.bk-hero-shop .btn-theme{
+    padding: 10px 26px;
+}
+
+
+/* bk-hero-section */
+
+/* bk-toys */
+
+.bk-big-sale .toys-ex-categories{
+    bottom: 10%;
+    right: 10%;
+
+
+}
+
+/* bk-toys */
+
+
+/* bk-products-store */
+
+.bk-sel-rate i{
+    color: #ffd203;
+    margin-right: 5px;
+}
+
+.bk-sel-ctrgs h4{
+    color: #232323;
+    font-weight: 500;
+
+}
+
+.bk-sel-rate{
+    line-height: 20px;
+}
+
+.bk-sel-price span{
+    color: #65c422;
+    font-size: 16px;
+    font-weight: 600;
+
+}
+
+.bk-products-box{
+    position: relative;
+    overflow: hidden;
+    border: 1px solid #F5f5f5;
+    margin-bottom: 30px;
+
+}
+
+.bk-products-img {
+    margin: 0 auto;
+    display: table;
+    padding: 20px;
+
+}
+
+
+.bk-selections{
+    position: relative;
+    padding: 12px 20px;
+    border-top: 1px solid #f5f5f5;
+
+
+}
+
+
+/*
+.bk-latest-products .heading-panel h1{
+    text-align: left;
+
+}
+*/
+
+
+
+
+
+
+.bk-latest-products{
+    position: relative;
+
+}
+
+.book-sel-prefrences{
+    position: absolute;
+    right: 5%;
+    top: 1%;
+
+
+}
+
+
+.book-sel-prefrences .btn-theme{
+    padding: 7px 28px;
+
+}
+
+/* bk-products-store */
+
+
+
+/* bk-books-ads */
+
+.bk-books-ads .heading-panel h1 {
+    text-align: left;
+
+}
+
+.bk-books-ads .heading-panel h1::before{
+    margin: 0;
+
+}
+
+
+
+.bk-books-ads .heading-panel h1::after{
+    margin: 0;
+
+}
+
+.bk-books-ads .owl-controls{
+    display: none;
+
+}
+
+
+/* bk-books-ads */
+
+
+/* top-books-ads */
+
+
+
+
+.top-ox-img {
+    float: left;
+    margin-right: 20px;
+
+}
+
+.top-bk-box {
+    position: relative;
+    overflow: hidden;
+    border:1px solid #f5f5f5;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+
+.top-bk-details i {
+    color: #ffd203;
+    margin-right: 5px;
+}
+
+.top-bk-details .top-bk-text-title h4 {
+    color: #232323;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.top-bk-details p span {
+    color: #65c422;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.top-bk-details .top-bk-text-btn span{
+    color: #232323;
+    font-size: 16px;
+}
+
+.top-bk-text-area{
+    position: relative;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+
+
+.top-bk-ads{
+    position: relative;
+
+}
+
+.bk-books-ads .dec-featured-ads{
+    position: relative;
+}
+
+.bk-client-area .happy-clients-area{
+    padding: 0;
+
+}
+
+
+.bk-mb-blog .mob-brand-categories{ 
+    display: none;
+}
+
+
+
+/* top-books-ads */
+
+
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    .bk-hero-text h3 {
+        font-size: 46px;
+        line-height: all;
+
+    }
+
+    .bk-hero-text h4 {
+        font-size: 26px;
+        line-height: 13px;
+    }
+    .bk-srch-links .bk-srch-contents .bk-absolute {
+
+        right: 45%;
+    }
+    .top-bk-box {
+        padding: 10px;
+        text-align: center;
+    }
+    .top-ox-img {
+        float: none;
+        margin-right: 0;
+    }
+
+
+
+
+}
+
+
+@media (min-width: 320px) and (max-width: 767px) {
+    .bk-srch-logo{
+        margin-bottom: 20px;
+    }
+
+
+    .bk-srch-links .bk-srch-contents .bk-absolute {
+        right: 30%;
+    }
+
+
+    .bk-hero-text h4 {
+        font-size: 26px;
+        line-height: 26px;
+    }
+
+    .bk-hero-text h3 {
+        font-size: 40px;
+        line-height: 66px;
+    }
+
+    .bk-hero-text p {
+
+        color: #232323;
+        font-size: 15px;
+        line-height: 26px;
+
+    }
+
+    .book-sel-prefrences {
+        display: none;
+    }
+
+
+
+
+}
+
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+
+    .bk-srch-links {
+        margin-top: 5px;
+    }
+}
+
+
+
+
+
+
+.bk-top-details{
+    position: relative;
+    overflow: hidden;
+}	
+
+
+.bk-top-product{
+    float: left;
+}
+
+
+.bk-top-details h3{
+    font-size: 16px;
+    color: #232323;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+
+.bk-top-details span{
+
+    color: #ffb600;
+
+}
+
+
+.bk-top-details strike{
+    margin-right: 5px;
+}
+
+.bk-top-product{
+    margin-right: 10px;
+}
+
+
+.bk-top-accesories {
+    padding: 10px;
+    border-bottom: 1px solid #f5f5f5;
+    position: relative;
+
+    overflow: hidden;
+}
+.bk-top-accesories a {
+    color: #777;
+}
+
+.b-top-alignment{
+    float: left;
+    margin-right: 20px;
+
+}
+
+.bk-top-order span{
+    font-size: 18px;
+
+    color: #232323;
+
+    font-weight: 500;
+}
+
+
+
+.bk-top-content .btn-theme{
+    padding: 5px 18px;
+
+    border-radius: 20px;
+}
+
+
+.bk-top-area{
+    float: left;
+    margin-right: 15px;
+}
+.bk-top-content{
+    margin-top: 10px;
+}
+
+
+.bk-bottom-box{
+    padding: 10px 15px;
+    min-width: 260px;
+}
+
+
+.bk-top-accesories i{
+    font-size: 15px;
+    margin-right: 10px;
+
+
+
+}
+
+/*
+.dropdown-menu {
+    width: 250px;
+}
+*/
+
+.latest-book-menu .mega-menu.menu-2 {
+    position: relative;
+}
+.bk-search-area .open .dropdown-menu {
+    min-width: 250px;
+    left: auto;
+    right: 0;
+    z-index: 99999999;
+    border: none;
+}
+
+.latest-book-menu .mega-menu > section.menu-list-items {
+    padding: 0;
+}
+
+.latest-book-menu .mega-menu .menu-links {
+    float: right;
+}
+
+.latest-book-menu .srvs-top-header .mega-menu.menu-2 {
+    border:none;
+
+}   
+
+.latest-book-menu .menu-separator{
+    background-color: rgba(5, 3, 29, 0.2);
+
+}
+
+
+.latest-book-menu .mega-menu .menu-logo > li > a {
+    padding: 0px 15px;
+    color: #fff;
+}
+
+.latest-book-menu .menu-logo > li.menu-separator > a .book-menu-list-items {
+    padding: 0;
+    display: inline-block;
+
+}
+.latest-book-menu .menu-logo > li.menu-separator > a .book-menu-list-items i.fa-bars {
+    position: relative;;
+    left: auto;
+    margin-right: 30px;
+    border-right: 1px solid rgba(255,255,255,0.3);
+    padding: 0 20px;
+    font-weight: 400;
+}
+.latest-book-menu .menu-logo > li.menu-separator ul.dropdown-menu {
+    left: 0;
+    right: auto;
+    margin: 0;
+    border-radius: 0;
+    height: auto;
+    max-height: 300px;
+    overflow-x: hidden;
+    border: none;
+    min-width: 230px;
+}
+.latest-book-menu .book-menu-list-items i{
+    color: #fff;
+}
+.latest-book-menu .menu-logo > li.menu-separator > a {
+    font-weight: 400;
+    padding: 0;
+    padding-right: 50px;
+}
+.latest-book-menu .menu-logo > li.menu-separator .dropdown-menu > li > a {
+    padding:10px 20px;
+    font-size: 16px;
+}
+.latest-book-menu .menu-logo > li.menu-separator .dropdown-menu > li > a:hover {
+    color: #FFF;
+}
+/*.latest-book-menu .mega-menu.desktopTopFixed .menu-links > li > a {
+    color: #242424;
+}*/
+
+@media (min-width: 320px) and (max-width: 767px) {
+
+    .latest-book-menu .mega-menu .menu-links {
+        margin-left: 0;
+    }
+    .bk-hero-details {
+        padding: 50px 0;
+    }
+
+}
+.latest-book-menu .mega-menu .menu-links > li > a{color: #ffffff;}
+
+.latest-book-menu .srvs-top-header .top-header .mega-menu.desktopTopFixed .menu-list-items{background-color: #020202;}

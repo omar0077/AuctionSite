@@ -1,0 +1,460 @@
+
+/*top-bar*/
+
+
+.sprt-top-bar .sprt-top-sign .spt-links .dropdown-menu{
+    z-index: 9999999999 !important;
+    border-radius: 0;
+	margin-top: 0;
+	overflow: hidden;
+	padding: 0;
+	min-width: 180px;
+	left: auto;
+	right: 0;
+    border:none;
+}
+
+.sprt-top-bar .dropdown-menu li {
+	width: 100%;
+}
+.sprt-top-bar .dropdown-menu li.divider {
+    margin: 0;
+}
+.sprt-top-bar .sprt-top-sign .spt-links .dropdown-menu li a {
+	padding: 0 15px;
+	color: #232323;
+	font-size: 14px;
+	font-weight: 500;
+	text-transform: uppercase;
+	line-height: 50px;
+	position: relative;
+}
+.sprt-top-bar .sprt-top-sign .spt-links .dropdown-menu li a:hover, .sprt-top-bar .sprt-top-sign .spt-links .dropdown-menu li a:focus {
+	color: #FFF;
+}
+.sprt-top-bar .sprt-top-sign .spt-links .dropdown-menu li a i {
+	font-size: 14px;
+	position: relative;
+	margin-right: 5px;
+	color: #ccc;
+	font-weight: 400;
+}
+.sprt-top-sign span.nav-cell {
+    margin-left: 5px;
+    padding: 0;
+}
+
+
+
+.sprt-top-sign {
+    float: right;
+    position: relative;
+    z-index: 999;
+}
+
+
+
+.sprt-top-scl .spt-alignment li a i{
+    color: #232323;
+    font-size: 16px;
+}
+
+.sprt-top-scl .spt-alignment li{
+    margin-right: 10px;
+
+}
+
+.sprt-top-sign .spt-links li a {
+    background-color: transparent;
+    color: #232323;
+    font-size: 16px;
+}
+.sprt-top-sign .spt-links li a img {
+    width: 25px;
+    height: 25px;
+    margin-top: 8px;
+}
+
+.sprt-top-bar{
+    padding: 10px 0;
+
+}
+
+
+/*top-bar*/
+
+
+
+
+/*hedaer*/
+
+
+.sprt-header-box i{
+    background: #03a9f4;
+    color: #fff;
+    padding: 6px 8px;
+    border-radius: 30px;
+
+}
+
+
+.sprt-header-box p {
+    color: #232323;
+
+    margin: 0;
+
+    padding-top: 5px;
+
+}
+
+
+
+.sprt-header-box{
+    position: absolute;
+
+    right: 0%;
+
+    top: -25px;
+
+    overflow: hidden;
+
+    float: right;
+    background: #fff;
+    padding: 16px 30px;
+
+}
+
+.sprt-header .mega-menu > section.menu-list-items {
+	padding: 15px 0;
+}
+
+.sprt-top-bar .sprt-top-scl{
+    margin-top: 10px;
+}
+
+
+
+
+.sprt-header .srvs-top-header .mega-menu.menu-2{
+    background-color: rgba(5, 3, 29, 0.2);
+
+}
+
+
+.sprt-header .mega-menu .menu-logo > li {
+    margin: 0 !important;
+
+}
+
+.sprt-header-box i{
+    margin: 0 auto;
+    display: table;
+
+
+}
+
+/*hedaer*/
+
+
+/*sprt-hero-section*/
+
+.sprt-hero-text{
+    padding-top: 180px;
+
+    padding-bottom: 130px;
+
+}
+
+.sprt-hero-cric h3{
+    font-size: 34px;
+
+    color: #fff;
+
+    font-weight: 500;
+
+    line-height: 26px;
+
+}
+
+
+.sprt-hero-cric h4{
+    font-size: 68px;
+    color: #fff;
+    font-weight: 600;
+}
+
+
+
+.sprt-hero-cric p{
+    color: #fff;
+    width: 70%;
+    font-size: 20px;
+}
+
+.sprt-hero-st{
+    margin-top: 25px;
+
+}
+.sprt-hero-st .btn-theme{
+    padding: 8px 26px;
+
+
+}
+
+
+.sprt-hero-section{
+
+    height: auto;
+
+    background-size: cover;
+    position: relative;
+
+}
+
+
+.sprt-hero-section::before{
+    content: "";
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    background-color: rgba(5, 3, 29, 0.8);
+
+
+}
+
+.sprt-header .srvs-top-header .mega-menu.menu-2{
+    background-color: rgba(5, 3, 29, 0.2);
+
+}
+
+/*sprt-hero-section*/
+
+
+/*sprt-explore-section*/
+
+
+.sprt-explore-section .srvs-explore-section .srvs-ex {
+
+    color: #03a9f4;
+
+}
+
+.sprt-explore-box{
+    position: relative;
+
+}
+
+
+.sprt-ex-ads{
+    position: absolute;
+    left: 39%;
+    bottom: -10%;
+    opacity: 0;
+    -webkit-transition: all .25s ease-in-out;
+    -moz-transition: all .25s ease-in-out;
+    -ms-transition: all .25s ease-in-out;
+    -o-transition: all .25s ease-in-out;
+    transition: all .25s ease-in-out;
+}
+.col-lg-2 .srvs-explore-box .sprt-ex-ads {
+    left: 31%;
+  }
+
+.sprt-ex-ads .btn-theme {
+    padding: 2px 15px;
+    border-radius: 20px;
+}
+
+
+.sprt-explore-box:hover .sprt-ex-ads {
+    opacity: 1;
+}
+
+
+/*sprt-explore-section*/
+
+
+/*sprt-featured-ads*/
+
+
+.sprt-featured-ads .dec-featured-ads .heading-panel .srvs-ex {
+
+    color: #03a9f4 !important;
+}
+
+.sprt-int{
+    text-align: center;
+
+}
+
+.sprt-int .btn-theme{
+    padding: 8px 28px;
+
+}
+
+
+/*sprt-featured-ads*/
+
+
+/*sprt-ad-location*/
+
+
+.sprt-ad-location .dec-location-section::before {
+
+    content: "";
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    background-color: rgba(5, 3, 29, 0.7);
+
+}
+
+
+.sprt-ad-location .dec-location-section {
+
+
+    background-size: cover;
+
+}
+
+
+/*sprt-ad-location*/
+
+
+
+/*sprt-action*/
+
+.sprt-mc .dec-brnd-text h4 {
+    color: #03a9f4;
+}
+
+
+.sprt-mc .dec-brnd-text h4::before {
+    background-color: #03a9f4;
+
+}
+
+
+
+
+.sprt-mc .dec-brnd-text h4::after {
+    background-color: #03a9f4;
+
+}
+
+.sprt-mc .dec-brnd-text h2 {
+    font-size: 38px;
+    line-height: 26px;
+}
+
+
+
+.sprt-mc .dec-brnd-text h4 {
+    font-weight: 500;
+    line-height: 55px;
+
+}
+
+
+/*sprt-action*/
+
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    .sprt-header-box {
+        position: relative;
+        top: 0;
+    }
+    
+
+
+}
+
+
+@media (min-width: 320px) and (max-width: 767px) {
+
+    .sprt-top-sign {
+
+        float: none;
+
+    }
+
+    .sprt-header-box {
+        position: relative;
+        top: 10px;
+
+    }
+
+
+    .sprt-hero-cric h4 {
+        line-height: 50px;
+        font-size: 35px;
+    }
+
+
+    .sprt-hero-cric h3 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+
+    .sprt-hero-cric p {
+        font-size: 16px;
+    }
+
+    .sprt-hero-text {
+
+        padding-top: 200px;
+        padding-bottom: 70px;
+
+    }
+
+    .sprt-hero-st .btn-theme {
+
+        padding: 6px 22px;
+
+    }
+    .sprt-top-bar .sprt-top-sign .spt-links .dropdown-menu {
+        left: 0;
+        right: right;
+    }
+
+}
+
+
+@media (min-width: 1024px) and (max-width: 1279px) {}
+
+
+.sprt-colored-header .top-header-3 .mega-menu.menu-2 {
+    background-color: #fff;
+    position: relative !important;
+    width: 100%;
+	float: left;
+}
+.sprt-colored-header {
+	position: relative;
+	width: 100%;
+	float: left;
+	border-top: 1px solid #f5f5f5;
+}
+
+.sprt-colored-header .srvs-top-header .mega-menu.menu-2 {
+	border-bottom: none;
+}
+.sprt-colored-header .sprt-header-box {
+    top: -20px;
+    background-color: #F5f5f5;
+}
+.sprt-colored-header .mega-menu.desktopTopFixed .sprt-header-box, .sprt-header .mega-menu.desktopTopFixed .sprt-header-box {
+    background-color: #F5f5f5;
+}
+
+.sprt-header .mega-menu .drop-down-multilevel {
+    top: 65px;
+}
+
+
+
+
